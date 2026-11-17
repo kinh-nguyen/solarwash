@@ -1,0 +1,11 @@
+Package: solarwash
+Type: Package
+Title: Solarized Watercolour Palettes and Washes for 'ggplot2'
+Version: 0.1.0
+Authors@R: person("solarwash", "authors", role = c("aut", "cre"), email = "kinh.nguyen@uni-heidelberg.de")
+Description: Map palettes built from the Solarized accent colours.
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports: ggplot2 (>= 3.4.0), scales, grDevices, stats, utils
+RoxygenNote: 7.3.1
